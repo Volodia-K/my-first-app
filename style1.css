@@ -1,0 +1,16 @@
+body{
+	background: rgb(50, 50, 200);
+}
+.main{
+	background: rgb(0, 0, 220);
+	margin: 5px auto;
+	width: 70%;
+	border-radius: 5%;
+	height: 800px;
+}
+.main h1{
+	text-align: center;
+	color: rgb(230, 230, 230);
+	font-size: 4em;
+	font-family: Verdana, Helvetica, sans-serif;
+}
